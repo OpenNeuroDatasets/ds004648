@@ -101,15 +101,15 @@
 		"LongName": "Caloric intake",
 		"Units": "Kcal"
 	},
-	"Prot_gr": {
+	"Prot": {
 		"LongName": "Protein",
 		"Units": "gr"
 	},
-	"TF_gr": {
+	"TF": {
 		"LongName": "Total fat",
 		"Units": "gr"
 	},
-	"SatFat_gr": {
+	"SatFat": {
 		"LongName": "Saturated fat",
 		"Units": "gr"
 	},
@@ -117,19 +117,19 @@
 		"LongName": "Monounsaturated fat",
 		"Units": "gr"
 	},
-	"Poly_InsFat_gr": {
+	"Poly_InsFat": {
 		"LongName": "Polyunsaturated fat",
 		"Units": "gr"
 	},
-	"Chol_mg": {
+	"Chol": {
 		"LongName": "Cholesterol",
 		"Units": "mg"
 	},
-	"Carb_gr": {
+	"Carb": {
 		"LongName": "Carbohydrates",
 		"Units": "gr"
 	},
-	"Fiber_gr": {
+	"Fiber": {
 		"LongName": "Fiber",
 		"Units": "gr"
 	},
